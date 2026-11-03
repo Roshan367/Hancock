@@ -1,0 +1,20 @@
+Field;Description;Values;Data type
+patient_id;Patient identifier, randomly assigned;"""001"" to ""763""";string
+primary_tumor_site;Site of the primary tumor or CUP (cancer of unknown primary);Hypopharynx, Larynx, Oral_Cavity, Oropharynx, CUP;string
+pT_stage;Pathological T stage, with unknown stage TX;pT1, pT1a, pT1b, pT2, pT3, pT4a, pT4b, pTis, TX;string
+pN_stage;Pathological N stage, with unknown stage NX;pN0, pN1, pN1a, pN2, pN2a, pN2b, pN2c, pN3, pN3b, NX;string
+grading_hpv;Tumor grading, HPV-positive oropharyngeal carcinoma was not graded;G1, G2, G3, HPV_OSCC;string
+hpv_association_p16;HPV (human papillomavirus) status as indicated by p16 positivity (=aberrant overexpression),;negative, positive, not_tested;string
+;only patients with HPV-positive oropharyngeal carcinoma were tested;;
+histologic_type;Histologic type of the primary tumor;Mucoepidermoid_Carcinoma, Neuroendocrine_Carcinoma, SCC_Acantholytic, SCC_Basaloid, SCC_Conventional-Keratinizing, SCC_Conventional-NonKeratinizing, SCC_Lymphoepithelial, SCC_Sarcomatoid;string
+number_of_positive_lymph_nodes;Number of resected lymph nodes with present cancer cells;;integer
+number_of_resected_lymph_nodes;Number of resected lymph nodes;;integer
+perinodal_invasion;Perinodal invasion;no, yes;string
+lymphovascular_invasion;Lymphovascular invasion (L);no, yes;string
+vascular_invasion;Vascular invasion (V);no, yes;string
+perineural_invasion_Pn;Perineural invasion (Pn);no, yes;string
+resection_status;Resection status after first treatment, with unknown status RX;R0, R1, R2, RX;string
+resection_status_carcinoma_in_situ;Resection status for carcinoma in situ;CIS_absent, Ris0, Ris1;string
+carcinoma_in_situ;Presence of carcinoma in situ;no, yes;string
+closest_resection_margin_in_cm;"Distance to closest resection margin, in cm. Distances smaller than 0.1 cm are denoted with ""<0.1""";;string
+infiltration_depth_in_mm;Infiltration depth of the tumor, in mm;;float

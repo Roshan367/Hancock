@@ -1,0 +1,34 @@
+Field;Description;Values;Data type
+patient_id;Patient identifier, randomly assigned;"""001"" to ""763""";string
+year_of_initial_diagnosis;Year in which the patient was initially diagnosed with cancer;;integer
+age_at_initial_diagnosis;Patient age in years;;integer
+sex;Patient sex;female, male;string
+smoking_status;First known smoking status of the patient;non-smoker, former, smoker;string
+primarily_metastasis;Presence of metastases at the time of diagnosis;no, yes;string
+survival_status;Survival status at the time of the last known information;living, deceased;string
+survival_status_with_cause;Survival status with cause of death, if documented;living, deceased, deceased not tumor specific, deceased tumor specific;string
+days_to_last_information;Time from diagnosis to last information or death, in days;;integer
+first_treatment_intent;Intent of the first treatment, only patients with curative treatment intent were included;curative;string
+first_treatment_modality;Modality of the first treatment, only patients with local surgery were included;local surgery;string
+days_to_first_treatment;Time from diagnosis to first treatment, in days, is equal to zero if the diagnosis was confirmed externally;;integer
+adjuvant_treatment_intent;Intent of adjuvant treatment, if applied;curative, palliative;string
+adjuvant_radiotherapy;Use of systemic radiotherapy as adjuvant treatment;no, yes;string
+adjuvant_rad_modality;Modality of adjuvant radiotherapy, if applied;brachytherapy,;string
+;;percutaneous radiotherapy;
+adjuvant_systemic_therapy;Use of systemic radiotherapy as adjuvant treatment;no, yes;string
+adjuvant_syst_modality;Modality of systemic radiotherapy, if applied;cisplatin, docetaxel, carboplatin, fluorouracil, cetuximab, pembrolizumab;string
+adjuvant_rct;Use of radiochemotherapy as adjuvant treatment;no, yes;string
+recurrence;Occurrence of a locoregional recurrence of cancer;no, yes;string
+days_to_recurrence;Time from diagnosis to recurrence, if any, in days;;integer
+progress_1;Progress of the cancer, for example distant metastasis, late recurrence, or tumor growth;no, yes;string
+days_to_progress_1;Time from diagnosis to first progress, if any, in days;;integer
+progress_2;Second progress of the cancer, for example distant metastasis, late recurrence, or tumor growth;no, yes;string
+days_to_progress_2;Time from diagnosis to second progress, if any, in days;;integer
+metastasis_1_locations;Localization of first known distant metastases, if present;Adrenal, Bones, Brain, Liver, Lungs, Lymph Nodes, Other Organs, Peritoneum, Pleura, Skin, Soft Tissue, Spleen;string
+days_to_metastasis_1;Time from diagnosis to first metastases, if present, in days;;integer
+metastasis_2_locations;Localization of distant metastases at a second time point, if present;Adrenal, Bones, Brain, Liver, Lungs, Lymph Nodes, Other Organs, Peritoneum, Pleura, Skin, Soft Tissue, Spleen;string
+days_to_metastasis_2;Time from diagnosis to second metastases, if present, in days;;integer
+metastasis_3_locations;Localization of distant metastases at a third time point, if present;Adrenal, Bones, Brain, Liver, Lungs, Lymph Nodes, Other Organs, Peritoneum, Pleura, Skin, Soft Tissue, Spleen;string
+days_to_metastasis_3;Time from diagnosis to third metastases, if present, in days;;integer
+metastasis_4_locations;Localization of distant metastases at a fourth time point, if present;Adrenal, Bones, Brain, Liver, Lungs, Lymph Nodes, Other Organs, Peritoneum, Pleura, Skin, Soft Tissue, Spleen;string
+days_to_metastasis_4;Time from diagnosis to fourth metastases, if present, in days;;integer

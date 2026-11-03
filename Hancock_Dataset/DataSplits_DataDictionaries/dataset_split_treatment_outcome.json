@@ -1,0 +1,4580 @@
+[
+ {
+  "patient_id":"001",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"002",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"003",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"004",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"005",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"006",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"007",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"008",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"009",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"010",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"011",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"012",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"013",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"014",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"015",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"016",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"017",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"018",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"019",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"020",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"021",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"022",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"023",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"024",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"025",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"026",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"027",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"028",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"029",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"030",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"031",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"032",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"033",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"034",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"035",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"036",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"037",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"038",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"039",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"040",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"041",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"042",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"043",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"044",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"045",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"046",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"047",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"048",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"049",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"050",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"051",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"052",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"053",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"054",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"055",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"056",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"057",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"058",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"059",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"060",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"061",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"062",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"063",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"064",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"065",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"066",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"067",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"068",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"069",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"070",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"071",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"072",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"073",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"074",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"075",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"076",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"077",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"078",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"079",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"080",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"081",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"082",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"083",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"084",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"085",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"086",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"087",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"088",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"089",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"090",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"091",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"092",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"093",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"094",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"095",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"096",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"097",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"098",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"099",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"100",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"101",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"102",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"103",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"104",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"105",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"106",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"107",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"108",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"109",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"110",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"111",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"112",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"113",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"114",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"115",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"116",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"117",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"118",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"119",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"120",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"121",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"122",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"123",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"124",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"125",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"126",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"127",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"128",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"129",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"130",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"131",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"132",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"133",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"134",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"135",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"136",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"137",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"138",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"139",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"140",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"141",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"142",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"143",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"144",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"145",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"146",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"147",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"148",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"149",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"150",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"151",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"152",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"153",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"154",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"155",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"156",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"157",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"158",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"159",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"160",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"161",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"162",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"163",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"164",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"165",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"166",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"167",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"168",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"169",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"170",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"171",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"172",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"173",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"174",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"175",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"176",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"177",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"178",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"179",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"180",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"181",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"182",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"183",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"184",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"185",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"186",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"187",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"188",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"189",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"190",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"191",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"192",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"193",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"194",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"195",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"196",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"197",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"198",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"199",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"200",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"201",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"202",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"203",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"204",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"205",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"206",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"207",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"208",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"209",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"210",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"211",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"212",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"213",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"214",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"215",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"216",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"217",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"218",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"219",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"220",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"221",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"222",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"223",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"224",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"225",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"226",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"227",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"228",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"229",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"230",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"231",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"232",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"233",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"234",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"235",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"236",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"237",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"238",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"239",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"240",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"241",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"242",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"243",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"244",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"245",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"246",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"247",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"248",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"249",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"250",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"251",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"252",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"253",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"254",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"255",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"256",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"257",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"258",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"259",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"260",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"261",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"262",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"263",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"264",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"265",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"266",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"267",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"268",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"269",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"270",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"271",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"272",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"273",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"274",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"275",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"276",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"277",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"278",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"279",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"280",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"281",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"282",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"283",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"284",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"285",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"286",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"287",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"288",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"289",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"290",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"291",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"292",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"293",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"294",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"295",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"296",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"297",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"298",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"299",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"300",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"301",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"302",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"303",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"304",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"305",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"306",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"307",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"308",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"309",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"310",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"311",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"312",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"313",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"314",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"315",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"316",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"317",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"318",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"319",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"320",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"321",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"322",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"323",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"324",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"325",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"326",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"327",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"328",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"329",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"330",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"331",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"332",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"333",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"334",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"335",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"336",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"337",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"338",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"339",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"340",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"341",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"342",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"343",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"344",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"345",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"346",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"347",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"348",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"349",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"350",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"351",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"352",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"353",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"354",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"355",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"356",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"357",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"358",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"359",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"360",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"361",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"362",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"363",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"364",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"365",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"366",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"367",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"368",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"369",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"370",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"371",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"372",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"373",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"374",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"375",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"376",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"377",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"378",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"379",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"380",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"381",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"382",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"383",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"384",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"385",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"386",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"387",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"388",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"389",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"390",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"391",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"392",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"393",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"394",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"395",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"396",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"397",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"398",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"399",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"400",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"401",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"402",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"403",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"404",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"405",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"406",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"407",
+  "adjuvant_treatment":"systemic therapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"408",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"409",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"410",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"411",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"412",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"413",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"414",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"415",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"416",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"417",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"418",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"419",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"420",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"421",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"422",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"423",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"424",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"425",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"426",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"427",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"428",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"429",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"430",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"431",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"432",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"433",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"434",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"435",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"436",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"437",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"438",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"439",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"440",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"441",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"442",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"443",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"444",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"445",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"446",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"447",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"448",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"449",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"450",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"451",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"452",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"453",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"454",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"455",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"456",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"457",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"458",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"459",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"460",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"461",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"462",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"463",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"464",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"465",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"466",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"467",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"468",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"469",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"470",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"471",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"472",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"473",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"474",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"475",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"476",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"477",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"478",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"479",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"480",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"481",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"482",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"483",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"484",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"485",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"486",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"487",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"488",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"489",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"490",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"491",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"492",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"493",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"494",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"495",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"496",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"497",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"498",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"499",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"500",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"501",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"502",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"503",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"504",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"505",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"506",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"507",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"508",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"509",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"510",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"511",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"512",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"513",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"514",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"515",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"516",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"517",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"518",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"519",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"520",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"521",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"522",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"523",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"524",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"525",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"526",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"527",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"528",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"529",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"530",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"531",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"532",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"533",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"534",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"535",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"536",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"537",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"538",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"539",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"540",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"541",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"542",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"543",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"544",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"545",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"546",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"547",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"548",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"549",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"550",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"551",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"552",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"553",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"554",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"555",
+  "adjuvant_treatment":"systemic therapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"556",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"557",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"558",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"559",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"560",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"561",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"562",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"563",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"564",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"565",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"566",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"567",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"568",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"569",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"570",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"571",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"572",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"573",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"574",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"575",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"576",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"577",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"578",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"579",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"580",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"581",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"582",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"583",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"584",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"585",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"586",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"587",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"588",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"589",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"590",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"591",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"592",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"593",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"594",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"595",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"596",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"597",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"598",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"599",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"600",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"601",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"602",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"603",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"604",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"605",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"606",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"607",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"608",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"609",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"610",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"611",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"612",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"613",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"614",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"615",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"616",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"617",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"618",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"619",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"620",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"621",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"622",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"623",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"624",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"625",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"626",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"627",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"628",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"629",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"630",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"631",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"632",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"633",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"634",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"635",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"636",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"637",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"638",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"639",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"640",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"641",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"642",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"643",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"644",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"645",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"646",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"647",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"648",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"649",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"650",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"651",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"652",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"653",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"654",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"655",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"656",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"657",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"658",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"659",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"660",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"661",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"662",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"663",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"664",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"665",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"666",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"667",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"668",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"669",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"670",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"671",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"672",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"673",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"674",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"675",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"676",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"677",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"678",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"679",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"680",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"681",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"682",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"683",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"684",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"685",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"686",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"687",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"688",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"689",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"690",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"691",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"692",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"693",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"694",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"695",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"696",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"697",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"698",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"699",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"700",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"701",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"702",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"703",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"704",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"705",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"706",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"707",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"708",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"709",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"710",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"711",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"712",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"713",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"714",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"715",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"716",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"717",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"718",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"719",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"720",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"721",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"722",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"723",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"724",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"725",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"726",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"727",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"728",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"729",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"730",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"731",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"732",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"733",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"734",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"735",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"736",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"737",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"738",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"739",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"740",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"741",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"742",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"743",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"744",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"745",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"746",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"747",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"748",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"749",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"750",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"751",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"752",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"753",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"754",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"755",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"756",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"757",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"758",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"759",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":1,
+  "dataset":"test"
+ },
+ {
+  "patient_id":"760",
+  "adjuvant_treatment":"radiochemotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"761",
+  "adjuvant_treatment":"radiotherapy",
+  "recurrent event or death":1,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"762",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ },
+ {
+  "patient_id":"763",
+  "adjuvant_treatment":"none",
+  "recurrent event or death":0,
+  "dataset":"training"
+ }
+]
