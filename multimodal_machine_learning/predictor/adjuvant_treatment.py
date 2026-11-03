@@ -223,7 +223,10 @@ class AbstractNeuralNetworkAdjuvantTreatmentPredictor(AbstractHancockPredictorLi
         target_test = self._data_split[self._data_split.dataset == "test"][
             ["patient_id", "target"]
         ]
-        return target_test.merge(self._data, on="patient_id", how="inner")
+
+        merged = target_test.merge(self._data, on="patient_id", how="inner")
+
+        return merged
 
     def _create_new_model(self) -> tf.keras.Model:
         """
@@ -249,6 +252,7 @@ class AbstractNeuralNetworkAdjuvantTreatmentPredictor(AbstractHancockPredictorLi
 # ===================================================================================================================
 
 
+
 class IntermediateFusionAdjuvantTreatmentPredictor(
     AbstractNeuralNetworkAdjuvantTreatmentPredictor
 ):
@@ -256,6 +260,14 @@ class IntermediateFusionAdjuvantTreatmentPredictor(
 
     TMA_FEATURE_DIM = 4096
 
+    def _prepare_data(self):
+        data_reader = self._data_reader_factory.make_data_frame_reader(
+            data_type=self._data_reader_factory.data_reader_types.tma_tabular_merged_feature,
+            data_dir=self.args.features_dir,
+            data_dir_flag=True
+        )
+        self._data = data_reader.return_data()
+        
     def _create_new_model(self) -> tf.keras.Model:
         """Create the intermediate-fusion neural network."""
 
@@ -286,66 +298,77 @@ class IntermediateFusionAdjuvantTreatmentPredictor(
         return model
 
     def _split_features(self, x):
-        """Separate the TMA embeddings from the tabular features."""
+        """Separate TMA embeddings from tabular features."""
 
-        tma = x[:, -self.TMA_FEATURE_DIM :]
-        tabular = x[:, : -self.TMA_FEATURE_DIM]
+        tma = x[:, -self.TMA_FEATURE_DIM:]
+        tabular = x[:, :-self.TMA_FEATURE_DIM]
 
         return [tma, tabular]
 
     def train(
         self,
-        df_train=None,
-        df_other=None,
-        model_reset=False,
-        **kwargs,
-    ):
-        """Train the intermediate-fusion model using HANCOCK preprocessing."""
+        df_train: pd.DataFrame = None,
+        df_other: pd.DataFrame = None,
+        plot_name: str = 'intermediate_fusion',
+        model_reset: bool = True,
+        **kwargs
+    ) -> list:
 
-        self._setup_training(
-            df_train=df_train,
-            df_other=df_other,
-            model_reset=model_reset,
+        df_train, df_other = self._setup_training(
+            df_train, df_other, model_reset
         )
 
-        [[x_train, y_train, x_other, y_other], features] = self.prepare_data_for_model(
-            self.df_train,
-            self.df_test,
+        print("Training class distribution:")
+        print(df_train["target"].value_counts())
+
+        print("\nValidation class distribution:")
+        print(df_other["target"].value_counts())
+
+        [[x_train, y_train, x_other, y_other], features] = (
+            self.prepare_data_for_model(df_train, df_other)
         )
 
-        # Split the combined feature matrices into two modalities.
+        # Separate the TMA and tabular inputs
         x_train = self._split_features(x_train)
         x_other = self._split_features(x_other)
 
-        # Convert one-hot labels into binary labels.
+        # Convert one-hot labels to binary labels
         y_train = y_train[:, 1]
         y_other = y_other[:, 1]
 
-        self.model.fit(
-            x_train,
-            y_train,
-            validation_data=(x_other, y_other),
-            epochs=self.args.epochs,
-            batch_size=self.args.batch_size,
-            verbose=0,
+        # Capture weights before training
+        weights_before = [
+            weight.copy() for weight in self.model.get_weights()
+        ]
+
+        self.model.fit(x_train, y_train)
+
+        # Capture weights after training
+        weights_after = self.model.get_weights()
+
+        # Check whether weights changed
+        weights_changed = any(
+            not np.array_equal(before, after)
+            for before, after in zip(weights_before, weights_after)
         )
 
-        # Convert model logits into probabilities.
+        print("Weights updated:", weights_changed)
+
+        # Predict probabilities
         y_pred = self.predict(x_other)
 
-        scores = self._training_calculate_metrics(y_other, y_pred)
+        # Calculate evaluation metrics
+        fpr, tpr, auc_score = self._training_calculate_metrics(
+            y_other, y_pred
+        )
 
-        if self.plot_flag:
-            self._plot_train(
-                self.df_test,
-                y_other,
-                y_pred,
-            )
+        if self._plotter.plot_flag or self._plotter.save_flag:
+            self._plot_train(df_other, y_pred, plot_name)
 
         return [
-            [scores],
+            [fpr, tpr, auc_score],
             [x_train, y_train, x_other, y_other, y_pred],
-            features,
+            features
         ]
 
     def predict(self, data):

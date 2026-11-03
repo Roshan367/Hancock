@@ -58,7 +58,7 @@ class DefaultPaths:
         # --- Base paths
         self.results = Path(__file__).parents[1] / "results"
         self.features = Path(__file__).parents[1] / "features"
-        self.data_dir = Path(__file__).parents[2] / "Hancock_Dataset"
+        self.data_dir = Path(__file__).parents[1] / "Hancock_Dataset"
         self.structured_data_dir = self.data_dir / "StructuredData"
         self.data_split = self.data_dir / "DataSplits_DataDictionaries"
 
