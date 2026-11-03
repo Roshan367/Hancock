@@ -336,23 +336,7 @@ class IntermediateFusionAdjuvantTreatmentPredictor(
         y_train = y_train[:, 1]
         y_other = y_other[:, 1]
 
-        # Capture weights before training
-        weights_before = [
-            weight.copy() for weight in self.model.get_weights()
-        ]
-
         self.model.fit(x_train, y_train)
-
-        # Capture weights after training
-        weights_after = self.model.get_weights()
-
-        # Check whether weights changed
-        weights_changed = any(
-            not np.array_equal(before, after)
-            for before, after in zip(weights_before, weights_after)
-        )
-
-        print("Weights updated:", weights_changed)
 
         # Predict probabilities
         y_pred = self.predict(x_other)
@@ -674,9 +658,12 @@ def adjuvant_treatment_prediction_intermediate_fusion(
     print("Running intermediate-fusion training...")
     predictor.train(
         plot_name="intermediate_fusion_train",
+        df_train=predictor.df_train,
+        df_other=predictor.df_test,
     )
 
     print("Running intermediate-fusion cross-validation...")
     predictor.cross_validate(
+        n_splits=10,
         plot_name="intermediate_fusion_cross_val",
     )
