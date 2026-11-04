@@ -30,10 +30,10 @@ def build_intermediate_fusion_model(
     # Fusion
     fused = layers.Concatenate(axis=1)([tma_embedding, tabular_embedding])
 
-    # Classifier (outputs logits, like the PyTorch version)
+    # Classifier
     z = layers.Dense(64, activation="relu")(fused)
     z = layers.Dropout(dropout)(z)
     logits = layers.Dense(1)(z)
-    output = layers.Reshape(())(logits)  # equivalent to squeeze(1) -> shape (batch,)
+    output = layers.Reshape(())(logits)
 
     return keras.Model(inputs=[tma_input, tabular_input], outputs=output)
